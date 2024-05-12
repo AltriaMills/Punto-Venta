@@ -1,0 +1,13 @@
+C:\Users\marif\OneDrive\Documentos\Punto Venta\Punto Venta\bin\Debug\Punto Venta.exe.config
+C:\Users\marif\OneDrive\Documentos\Punto Venta\Punto Venta\bin\Debug\Punto Venta.exe
+C:\Users\marif\OneDrive\Documentos\Punto Venta\Punto Venta\bin\Debug\Punto Venta.pdb
+C:\Users\marif\OneDrive\Documentos\Punto Venta\Punto Venta\obj\Debug\Punto Venta.csproj.AssemblyReference.cache
+C:\Users\marif\OneDrive\Documentos\Punto Venta\Punto Venta\obj\Debug\Punto Venta.csproj.SuggestedBindingRedirects.cache
+C:\Users\marif\OneDrive\Documentos\Punto Venta\Punto Venta\obj\Debug\Punto_Venta.Form1.resources
+C:\Users\marif\OneDrive\Documentos\Punto Venta\Punto Venta\obj\Debug\Punto_Venta.Properties.Resources.resources
+C:\Users\marif\OneDrive\Documentos\Punto Venta\Punto Venta\obj\Debug\Punto Venta.csproj.GenerateResource.cache
+C:\Users\marif\OneDrive\Documentos\Punto Venta\Punto Venta\obj\Debug\Punto Venta.csproj.CoreCompileInputs.cache
+C:\Users\marif\OneDrive\Documentos\Punto Venta\Punto Venta\obj\Debug\Punto Venta.exe
+C:\Users\marif\OneDrive\Documentos\Punto Venta\Punto Venta\obj\Debug\Punto Venta.pdb
+C:\Users\marif\OneDrive\Documentos\Punto Venta\Punto Venta\obj\Debug\Punto_de_venta.FrmArticulos.resources
+C:\Users\marif\OneDrive\Documentos\Punto Venta\Punto Venta\obj\Debug\Punto_Venta.Salir.resources
